@@ -2,38 +2,59 @@
 
 ## AI & Data Platform Engineer
 
-Building cloud-native Data & AI solutions using Databricks, Data Engineering, Machine Learning, Analytics, and Generative AI.
+Building cloud-native Data & AI solutions using Databricks, Data Engineering, Analytics Engineering, Machine Learning, and Generative AI.
 
-### Featured Projects
+---
 
-#### 🚀 ElitePredict
+## 🚀 Featured Projects
+
+### ElitePredict
 
 AI-powered football prediction platform combining Machine Learning, Databricks, Delta Lake, and full-stack development.
 
-#### 🚀 Data Intelligence Platform
+🔗 Live Demo: https://www.elitepredicts.com/
+
+### SmartClaims AI
+
+Intelligent insurance claims processing platform powered by Databricks Lakehouse, MLflow, Computer Vision, Fraud Detection, and AI-assisted decision workflows.
+
+🔗 Live Demo: https://smartclaims-ai.vercel.app/
+
+### Data Intelligence Platform
 
 Enterprise analytics platform featuring KPI dashboards, SLA monitoring, operational analytics, and an AI Copilot powered by LLMs and RAG.
 
-#### 🚀 SmartClaims AI
+🔗 Live Demo: https://dataintelligenceplatform.vercel.app/
 
-Insurance claims processing platform leveraging Databricks Lakehouse, MLflow, Computer Vision, Fraud Detection, and AI-assisted decision workflows.
+---
 
-### Core Technologies
+## 🛠️ Core Technologies
+
+**Data & AI**
 
 * Databricks
 * Delta Lake
+* Unity Catalog
+* Delta Live Tables
+* MLflow
 * PySpark
 * Python
 * SQL
-* MLflow
 * Machine Learning
 * Generative AI
 * RAG
+
+**Development**
+
 * React
 * FastAPI
+* Node.js
 * Supabase
+* REST APIs
 
-### Current Focus
+---
+
+## 🎯 Current Focus
 
 * Data Engineering
 * Analytics Engineering
@@ -41,8 +62,15 @@ Insurance claims processing platform leveraging Databricks Lakehouse, MLflow, Co
 * Data Platform Architecture
 * Cloud Data Solutions
 
-### Connect
+---
 
-💼 LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
+## 🌍 Connect
+
+💼 LinkedIn
+https://www.linkedin.com/in/ali-tebourbi-489514273/
 
 📍 Kraków, Poland
+
+---
+
+*"Transforming data into intelligent products and business value."*
