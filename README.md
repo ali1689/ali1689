@@ -12,19 +12,19 @@ Building cloud-native Data & AI solutions using Databricks, Data Engineering, An
 
 AI-powered football prediction platform combining Machine Learning, Databricks, Delta Lake, and full-stack development.
 
-🔗 Live Demo: https://www.elitepredicts.com/
+🔗 Live: https://www.elitepredicts.com/
 
 ### SmartClaims AI
 
 Intelligent insurance claims processing platform powered by Databricks Lakehouse, MLflow, Computer Vision, Fraud Detection, and AI-assisted decision workflows.
 
-🔗 Live Demo: https://smartclaims-ai.vercel.app/
+🔗 Live: https://smartclaims-ai.vercel.app/
 
 ### Data Intelligence Platform
 
 Enterprise analytics platform featuring KPI dashboards, SLA monitoring, operational analytics, and an AI Copilot powered by LLMs and RAG.
 
-🔗 Live Demo: https://dataintelligenceplatform.vercel.app/
+🔗 Live: https://dataintelligenceplatform.vercel.app/
 
 ---
 
